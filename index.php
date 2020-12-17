@@ -26,18 +26,18 @@
 			</div>
         <div class="row cf">
       <div class="six col">
-        <a href="#" class="button" id="button-19">CSS</a>
+        <a href="css.php" class="button" id="button-19">CSS</a>
       </div>
       <div class="six col">
-        <a href="#" class="button" id="button-20">SVG</a>
+        <a href="svg.php" class="button" id="button-20">SVG</a>
     </div>
       </div>
         <div class="row cf">
       <div class="six col">
-        <a href="#" class="button" id="button-9">ABOUT ME</a>
+        <a href="about.php" class="button" id="button-9">ABOUT ME</a>
       </div>
       <div class="six col">
-        <a href="#" class="button" id="button-10">CANVAS</a>
+        <a href="canvas.php" class="button" id="button-10">CANVAS</a>
       </div>
     </div>
     </div>
