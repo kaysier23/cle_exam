@@ -1,3 +1,4 @@
+
 .wrap {
   margin: 0 auto;
   text-align: center;
@@ -53,4 +54,23 @@ h1 {
   background: #bf00f4;
   transition: all 0.4s ease-in-out 0.6s;
   transform: translate(0%, 0%) rotate(120deg) ;
+}
+#button-8{
+  background-color: #34495e;
+  overflow: hidden;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+#button-8:hover{
+  -webkit-box-shadow: 0px 0px 10px #34495e;
+  box-shadow: 0px 0px 10px #34495e;
+}
+.button{
+  display: inline-block;
+  padding: 20px 50px;
+  margin: 20px 0;
+  position: relative;
+  color: #ecf0f1;
 }
