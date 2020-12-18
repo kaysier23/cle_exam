@@ -53,7 +53,7 @@ h1 {
 .box3 {
   background: #bf00f4;
   transition: all 0.4s ease-in-out 0.6s;
-  transform: translate(100%, 550%) otate(120deg) ;
+  transform: translate(300%, 550%) otate(120deg) ;
 }
 #button-8{
   background-color: #34495e;
