@@ -11,7 +11,7 @@
 		<div class = "header"> </div>
 			<div class = "navi">
 			<a href = "index.php"><font color = "black"> HOME</font></a>
-			<a href = ""><font color = "black"> CSS</font></a>
+			<a href = "css.php"><font color = "black"> CSS</font></a>
 			<a href = ""><font color = "black"> SVG</font></a>
 			<a href = ""><font color = "black"> CANVAS</font></a>
 			<a href = ""><font color = "black"> ABOUT ME</font></a>
@@ -24,7 +24,7 @@
 			<div class = "left">
         <p><font size = "5">CSS Transformation Properties</font></p>
         <a href="#" class="button">translate ()</a>
-         <a href="properties/rotate.php" class="button">rotate ()</a>
+         <a href="rotate.php" class="button">rotate ()</a>
          <a href="#" class="button">skew ()</a>
          <a href="#" class="button">scale ()</a>
         <br>
