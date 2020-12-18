@@ -157,6 +157,7 @@ background: #fff;
 float: left;
 border-top-left-radius:16px 40px;
 }
+.button{
   background-color: #34495e;
   border: none;
   color: white;
