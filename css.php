@@ -2,6 +2,9 @@
 <head>
 		<title>CSS</title>
 		<link rel="stylesheet" type = "text/css" href = "css/style1.css"/>
+	<head>
+		<title>CSS</title>
+		<link rel="stylesheet" type = "text/css" href = "css/style.css"/>
 	</head>
 	<body>
 		
@@ -15,10 +18,18 @@
 			</div>
 			<br>
 			<div class = "body2">
-           <p><font size = "6">CSS</font></p>
+           <p1><font size = "6">CSS</font></p1>
 			<div class = "right">
 			</div>
 			<div class = "left">
+        <p><font size = "5">CSS Transformation Properties</font></p>
+        <a href="#" class="button">translate ()</a>
+         <a href="properties/rotate.php" class="button">rotate ()</a>
+         <a href="#" class="button">skew ()</a>
+         <a href="#" class="button">scale ()</a>
+        <br>
+          <br>
+<p><font size = "5">CSS Transition & Animation</font></p>
 			</div>
 			</div>
 			<div class = "footer"> 
