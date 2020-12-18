@@ -29,7 +29,7 @@
           <br>
 <p><font size = "5">CSS Transition & Animation</font></p>
 <a href="translate.php" class="button">CSS Transition</a>
- <a href="rotate.php" class="button">CSS Animation</a>
+ <a href="animation.php" class="button">CSS Animation</a>
 			</div>
 			</div>
 			<div class = "footer"> 
