@@ -24,7 +24,7 @@
         <a href="translate.php" class="button">translate ()</a>
          <a href="rotate.php" class="button">rotate ()</a>
          <a href="skew.php" class="button">skew ()</a>
-         <a href="#" class="button">scale ()</a>
+         <a href="scale.php" class="button">scale ()</a>
         <br>
           <br>
 <p><font size = "5">CSS Transition & Animation</font></p>
