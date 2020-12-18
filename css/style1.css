@@ -1,5 +1,5 @@
 body {
-		background-color: #BE9B7B;
+		background-color: gray;
 		}
 
 .header{
@@ -78,7 +78,39 @@ body {
 		height:100px;
   margin-top: 20px;
 		}
+    border: 2px solid black;
 
-.clear{
-		clear:both;
-		}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button {
+  background-color: #34495e;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float: left;
+}
+p{
+text-align: center;
+  font-family: times new roman;
+  margin-top: 50px;
+}
+p1{
+  text-align: center;
+  margin: auto;
+}
