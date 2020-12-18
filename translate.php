@@ -1,4 +1,5 @@
 <html>
+  <link rel="stylesheet" type = "text/css" href = "css/style3.css"/>
 <body>
 <div class="wrap">
                 <div class="main-container">
