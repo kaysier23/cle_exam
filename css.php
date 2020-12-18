@@ -2,9 +2,7 @@
 <head>
 		<title>CSS</title>
 		<link rel="stylesheet" type = "text/css" href = "css/style1.css"/>
-	<head>
-		<title>CSS</title>
-		<link rel="stylesheet" type = "text/css" href = "css/style.css"/>
+
 	</head>
 	<body>
 		
@@ -25,7 +23,7 @@
         <p><font size = "5">CSS Transformation Properties</font></p>
         <a href="translate.php" class="button">translate ()</a>
          <a href="rotate.php" class="button">rotate ()</a>
-         <a href="#" class="button">skew ()</a>
+         <a href="skew.php" class="button">skew ()</a>
          <a href="#" class="button">scale ()</a>
         <br>
           <br>
