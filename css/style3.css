@@ -41,19 +41,19 @@ h1 {
 .box1 {
   background: #bf00f4;
   transition: all 0.4s ease-in-out 0.2s;
-  transform: translate(0%, 0%) rotate(120deg) ;
+  transform: translate(-50%, -100%) rotate(120deg) ;
 }
 
 .box2 {
   background: #bf00f4;
   transition: all 0.4s ease-in-out 0.4s;
-  transform: translate(0%, 0%) rotate(120deg) ;
+  transform: translate(50%, 100%) rotate(120deg) ;
 }
 
 .box3 {
   background: #bf00f4;
   transition: all 0.4s ease-in-out 0.6s;
-  transform: translate(0%, 0%) rotate(120deg) ;
+  transform: translate(100%, 350%) otate(120deg) ;
 }
 #button-8{
   background-color: #34495e;
