@@ -23,7 +23,7 @@
 			</div>
 			<div class = "left">
         <p><font size = "5">CSS Transformation Properties</font></p>
-        <a href="#" class="button">translate ()</a>
+        <a href="translate.php" class="button">translate ()</a>
          <a href="rotate.php" class="button">rotate ()</a>
          <a href="#" class="button">skew ()</a>
          <a href="#" class="button">scale ()</a>
