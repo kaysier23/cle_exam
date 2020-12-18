@@ -21,13 +21,15 @@
 			</div>
 			<div class = "left">
         <p><font size = "5">CSS Transformation Properties</font></p>
-        <a href="translate.php" class="button">translate ()</a>
-         <a href="rotate.php" class="button">rotate ()</a>
-         <a href="skew.php" class="button">skew ()</a>
-         <a href="scale.php" class="button">scale ()</a>
+        <a href="translate.php" class="button">Translate ()</a>
+         <a href="rotate.php" class="button">Rotate ()</a>
+         <a href="skew.php" class="button">Skew ()</a>
+         <a href="scale.php" class="button">Scale ()</a>
         <br>
           <br>
 <p><font size = "5">CSS Transition & Animation</font></p>
+<a href="translate.php" class="button">CSS Transition</a>
+ <a href="rotate.php" class="button">CSS Animation</a>
 			</div>
 			</div>
 			<div class = "footer"> 
