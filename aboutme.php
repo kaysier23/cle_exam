@@ -1,5 +1,5 @@
 <html>
-
+  <link rel="stylesheet" type = "text/css" href = "css/style21.css"/>
 <body>	
 		<div class = "header"> </div>
 			<div class = "navi">
