@@ -20,7 +20,7 @@
 			<div class = "right">
 <p><font size = "5">  CSS Transforms & Transitions</font></p>
 <a href="example1.php"class="button">EXAMPLE 1</a>
-<a href="#" class="button">EXAMPLE 2</a>
+<a href="example2.php" class="button">EXAMPLE 2</a>
 			</div>
 			<div class = "left">
         <p><font size = "5">CSS Transformation Properties</font></p>
