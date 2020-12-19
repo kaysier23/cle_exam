@@ -22,7 +22,6 @@
 <a href="#"class="button1">EXAMPLE 1</a>
 <a href="#" class="button1">EXAMPLE 2</a>
 			</div>
-			</div>
 			<div class = "left">
         <p><font size = "5">CSS Transformation Properties</font></p>
         <a href="translate.php" class="button">Translate ()</a>
