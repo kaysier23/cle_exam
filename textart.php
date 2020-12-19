@@ -1,4 +1,5 @@
-<head>
+<html>
+  <head>
   <link rel="stylesheet" href="css/style14.css"
 </head>
 <body>
@@ -182,3 +183,4 @@
   </svg>
 </div>
 </body>
+    </html>
