@@ -1,5 +1,7 @@
 	<html>
   <link rel="stylesheet" type = "text/css" href = "css/style16.css"/>
+		    <div class = "header"> <p><font size = "12">Kaysier De los reyes Portfolio</font></p>
+	</div>
 <body>	
 		<div class = "header"> </div>
 			<div class = "navi">
