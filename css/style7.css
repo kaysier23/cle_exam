@@ -1,0 +1,49 @@
+.box {
+  margin: 40px auto;
+  background: #6666ff;
+  width: 250px;
+  height: 250px;
+}
+
+.box:hover {
+  -webkit-transform: rotate(-360deg);
+  background: #ff5050;
+  border-radius: 150px;
+  width: 150px;
+  height: 150px;
+  margin: 100px auto;
+
+}  
+
+.rotate {
+  -webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+.rotate:hover {
+  -webkit-transition: all 0.8s ease-in-out;
+	-moz-transition: all 0.8s ease-in-out;
+	-o-transition: all 0.8s ease-in-out;
+	transition: all 0.8s ease-in-out;
+}
+.button{
+  display: inline-block;
+  padding: 20px 50px;
+  margin: 20px 0;
+  position: relative;
+  color: #ecf0f1;
+}
+#button-8{
+  background-color: #34495e;
+  overflow: hidden;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+#button-8:hover{
+  -webkit-box-shadow: 0px 0px 10px #34495e;
+  box-shadow: 0px 0px 10px #34495e;
+}
