@@ -1,3 +1,5 @@
+<html>
+   	<link rel="stylesheet" type = "text/css" href = "css/style10.css"/>
    <body>
 <div class="row cf"> 
           <div class="six col">
@@ -13,3 +15,4 @@
 </div>
 </div>
 </body>
+</html>
