@@ -273,13 +273,13 @@ h3{
 a {
   color: white;
   text-decoration: none;
-  font-size: 40px; }
+  font-size: 50px; }
 
 .effect-1 {
   position: relative;
-  height: 100px;
-  width: 100px;
-  margin: 100px;
+  height: 150px;
+  width: 150px;
+  margin: 20px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -287,7 +287,7 @@ a {
   border-radius: 50%;
   display: block;
   text-align: center;
-  line-height: 100px;
+  line-height: 150px;
   font-family: 'Comic Sans MS', cursive;
   background-color: black;
   -webkit-transform: translateZ(0); }
@@ -333,4 +333,3 @@ a {
   -moz-transition: -moz-transform 0.2s;
   -o-transition: -o-transform 0.2s;
   transition: transform 0.2s; }
-
