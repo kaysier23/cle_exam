@@ -19,8 +19,8 @@
            <p1><font size = "6">CSS</font></p1>
 			<div class = "right">
 <p><font size = "5">  CSS Transforms & Transitions.</font></p>
-<a href="#"class="button">EXAMPLE 1</a>
-<a href="#" class="button">EXAMPLE 2</a>
+<a href="#"class="button1">EXAMPLE 1</a>
+<a href="#" class="button1">EXAMPLE 2</a>
 			</div>
 			</div>
 			<div class = "left">
