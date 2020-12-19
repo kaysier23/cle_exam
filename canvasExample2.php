@@ -1,5 +1,5 @@
 <html>
-	<link rel="stylesheet" type = "text/css" href = "style.css"/>
+	<link rel="stylesheet" type = "text/css" href = "style18.css"/>
 <body>
  <div class="row cf"> 
           <div class="six col">
