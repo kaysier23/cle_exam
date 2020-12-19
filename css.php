@@ -4,7 +4,7 @@
 		<link rel="stylesheet" type = "text/css" href = "css/style1.css"/>
 
 	</head>
-	<body>
+<body>
 		
 		<div class = "header"> </div>
 			<div class = "navi">
