@@ -28,7 +28,7 @@
         <br>
           <br>
 <p><font size = "5">CSS Transition & Animation</font></p>
-<a href="translate.php" class="button">CSS Transition</a>
+<a href="transition.php" class="button">CSS Transition</a>
  <a href="animation.php" class="button">CSS Animation</a>
 			</div>
 			</div>
