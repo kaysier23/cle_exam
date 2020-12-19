@@ -1,7 +1,7 @@
 
 <html>
     <head>
-      <link href="stylesheet.css" rel="stylesheet">
+<link rel="stylesheet" type = "text/css" href = "css/style7.css"/>
     </head>	
 	<body>
             <div class="row cf"> 
