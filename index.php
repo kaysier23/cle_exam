@@ -34,7 +34,7 @@
       </div>
         <div class="row cf">
       <div class="six col">
-        <a href="about.php" class="button" id="button-9">ABOUT ME</a>
+        <a href="aboutme.php" class="button" id="button-9">ABOUT ME</a>
       </div>
       <div class="six col">
         <a href="canvas.php" class="button" id="button-10">CANVAS</a>
