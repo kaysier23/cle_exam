@@ -42,10 +42,23 @@
     </div>
     </div>
 			<div class = "footer"> 
-			<br>
-			<p><font size = "4">  </font></p>
-			<p><font size = "2"> </font></p>
-			
+        <h3>
+			<a class="insta-footer" href="https://www.facebook.com/pages/Le-Vape-Cafe/585242891871155">
+<div class="insta">
+  <div class="shape"></div>
+</div></a>
+<div class="fb">
+  <div class="facebook fbpos"><a class="fbanchor" href="https://www.facebook.com/pages/Le-Vape-Cafe/585242891871155">F</a></div>
+</div>
+<div class="tw">
+  <div class="twitter twpos"><a class="twanchor" href="https://www.facebook.com/pages/Le-Vape-Cafe/585242891871155">T</a></div>
+</div>
+  </h3>
+  <div class = "TM">
+ 			<p><font size = "1"> Portfolio </font></p>
+			<p><font size = "1">© 2020 / kyzier.LTD / All rights reserved. </font></p>
+    </div>
+  </footer>
 			</div>
 		
 	</body>
