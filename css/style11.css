@@ -10,6 +10,7 @@ body{
   position: relative;
   color: #ecf0f1;
 }
+
 #button-8{
   background-color: #34495e;
   overflow: hidden;
@@ -68,7 +69,7 @@ body{
   height: 220px;
   top: 50%;
   left: 50%;
-margin-top: -205px;
+margin-top: -265px;
   margin-left: -600px;
 }
 .d {
@@ -79,7 +80,7 @@ margin-top: -205px;
   height: 220px;
   top: 50%;
   left: 50%;
-margin-top: -205px;
+margin-top: -265px;
   margin-left: -300px;
 }
 .a {
@@ -90,7 +91,7 @@ margin-top: -205px;
   height: 220px;
   top: 50%;
   left: 50%;
-margin-top: -205px;
+margin-top: -265px;
  margin-left: -1px;
 }
 .k::after,
