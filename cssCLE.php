@@ -1,4 +1,5 @@
 <html>
+		<link rel="stylesheet" type = "text/css" href = "css/style11.css"/>
 <body>
           <div class="row cf"> 
           <div class="six col">
@@ -46,49 +47,4 @@
     <br>
     <br>
 <h1 align = "center"> ABOUT US</h1>
-    <p align = "center"><font size = "4">The coffee shop business provides coffee connoisseurs with a wide array of choices that satisfy discriminating palates, while providing prompt and courteous service. From growing to harvesting coffee, from roasting to brewing, from serving to keeping customers coming back for more – you need to strive for excellence.
-			</font></p>
- <p align = "center"><font size = "4">And the music you hear in store is chosen for its artistry and appeal.It’s not unusual to see people coming to CAC to chat, meet up or even work. We’re a neighborhood gathering place, a part of the daily routine – and we cou
-			</font></p>
-      <div class = "container20">
-       <div class = "steam steam-1"></div>
-      <div class = "steam steam-2"></div>
-      <div class = "steam steam-3"></div>
-      <div class = "steam steam-4"></div>
-      <div class = "coffe-cup"></div>
-        <div class = "saucer"></div>
-      </div>
-    <div class = "container30">
-<div class="coffee">
-	<span class="steam"></span>
-		<div class="coffee-bg-lid"></div>
-		<div class="coffee-rim"></div>
-		<div class="coffee-rim-bt"></div>		
-		<div class="coffee-color"></div>	
-		<div class="coffee-cup"></div>
-		<div class="coffee-shadow"></div>
-</div>
-</div>
-    			<div class = "clear"></div>
-  </div>
-  <div class = "footer">
-    <a class="insta-footer" href="https://www.facebook.com/pages/Le-Vape-Cafe/585242891871155">
-<div class="insta">
-  <div class="shape"></div>
-</div></a>  
-    <div class="fb">
-  <div class="facebook fbpos"><a class="fbanchor" href="https://www.facebook.com/pages/Le-Vape-Cafe/585242891871155">F</a></div>
-</div>
-  <div class="tw">
-  <div class="twitter twpos"><a class="twanchor" href="https://www.facebook.com/pages/Le-Vape-Cafe/585242891871155">T</a></div>
-</div>
-    <br>
-    <br>
-    <div class = "TM">
- 			<p><font size = "4"> CAC </font></p>
-			<p><font size = "2">© 2020 CAC Coffee Company. All rights reserved. </font></p>
-    </div>
-  </div>
-</div> 
-
-</html>
+    <p align = "center"><font size = "4">The coffee shop business provides coffee connoisseurs with a wide array of choices that satisfy discriminating palates, while providing prompt and courteous service. From growing to harvesting coffee, from roasting to brewing, from serving to keeping customers coming back for more – you need to strive for excellenc
