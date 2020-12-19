@@ -17,10 +17,8 @@
 			<br>
 			<div class = "body2">
            <p1><font size = "6">CSS</font></p1>
-				<br>
-				<br>
-<p><font size = "5">  CSS Transforms & Transitions</font></p>
-<a href="example1.php"class="button">CSS CLE</a>
+<p><font size = "5">  Culminating Learning Evidence </font></p>
+<a href="example1.php"class="button1">CSS CLE</a>
 			<div class = "right">
 <p><font size = "5">  CSS Transforms & Transitions</font></p>
 <a href="example1.php"class="button">EXAMPLE 1</a>
