@@ -24,7 +24,7 @@
 			</div>
 			<div class = "left">
         <p><font size = "5"> Graphical Art By Combining The SVG Elements</font></p>
-        <a href="svgexample1.php" class="button">SVG Combination</a>
+        <a href="svgCombination.php" class="button">SVG Combination</a>
 
 			</div>
 			</div>
