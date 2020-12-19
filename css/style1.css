@@ -129,15 +129,6 @@ margin-left: 560px;
   cursor: pointer;
 margin-left: 560px;
 }
-p{
-text-align: center;
-  font-family: times new roman;
-  margin-top: 50px;
-}
-p1{
-  text-align: center;
-  margin: auto;
-}
 
 .container{
  height: 150px;
@@ -145,7 +136,7 @@ p1{
   position: absolute;
   top: 50%;
   left: 50%;
-  margin: -20px 0 0 -450px;
+  margin: -10px 0 0 -450px;
 
 }
 
@@ -175,7 +166,7 @@ p1{
   position: absolute;
   top: 50%;
   left: 50%;
-  margin: -20px 0 0 350px;
+  margin: -10px 0 0 350px;
 }
 
 .square{
