@@ -16,11 +16,10 @@
                 <p><font size = "5">  SVG Culminating Learning Evidence</font></p>
 <a href="svgCLE.php"class="button1"> SVG CLE</a>
 			<div class = "right">
-<p><font size = "5">  CSS Transforms & Transitions.</font></p>
-<a href="#"class="button">EXAMPLE 1</a>
-<a href="#" class="button">EXAMPLE 2</a>
-        <p><font size = "5">  CSS Animation With @keyframes</font></p>
-<a href="@keyframes.php"class="button">EXAMPLE 1</a>
+<p><font size = "5">  SVG TEXT ART</font></p>
+<a href="textart.php"class="button">Text Art</a>
+        <p><font size = "5">SVG Animation</font></p>
+<a href="svgAnimation.php"class="button">SVG Animation</a>
 			</div>
 			<div class = "left">
         <p><font size = "5"> Graphical Art By Combining The SVG Elements</font></p>
