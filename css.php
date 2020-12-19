@@ -10,7 +10,7 @@
 			<div class = "navi">
 			<a href = "index.php"><font color = "black"> HOME</font></a>
 			<a href = "css.php"><font color = "black"> CSS</font></a>
-			<a href = ""><font color = "black"> SVG</font></a>
+			<a href = "">svg.php<font color = "black"> SVG</font></a>
 			<a href = ""><font color = "black"> CANVAS</font></a>
 			<a href = ""><font color = "black"> ABOUT ME</font></a>
 			</div>
