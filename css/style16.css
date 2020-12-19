@@ -1,0 +1,113 @@
+body {
+		background-color: gray;
+		}
+
+.header{
+			width: 800px;
+		margin: auto;
+		border: 2px solid black;
+		height: 120px;
+  margin-bottom: 10px;
+    text-align: center;
+     	}
+.navi{
+	  overflow: hidden;
+	   width: 100%;
+	   	border: 2px solid #000;
+		height:50px;
+		text-align: center;
+		word-spacing: 3px;
+	 }
+
+.navi a{
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-size: 17px;
+		
+		}		
+
+.maincontent{
+	    height: 450px;
+		float:right;
+		width:550px;
+		}
+.content{
+		float: center;
+		width:990PX;
+		margin-left:50px;
+	
+		}
+.sidebar{
+		height: 450px;
+		float:left;
+		border:1px solid #000;
+		}
+.main{
+		float:right;
+		width:1200px;
+		}
+.body2{
+		
+		padding: 2px;
+		border: 2px solid #000;
+		font-family: times new roman;
+		height:600px;
+  text-align: center;
+		}
+.left{
+		float:left;
+		margin:20px;
+		width:42%;
+		text-align:center;
+		}
+.right{
+		margin:20px;
+		float: right;
+		width:42%;
+		
+		text-align:center;
+	  }
+
+.footer{
+			width: 800px;
+		margin: auto;
+		border: 2px solid black;
+		height: 120px;
+  margin-top: 450px;
+    text-align: center;
+		}
+.button1 {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 35px;
+}
+.button1 {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+margin-left: 35px;
+}
+
+p{
+text-align: center;
+  font-family: times new roman;
+  margin-top: 50px;
+}
+p1{
+  text-align: center;
+  margin: auto;
+}
