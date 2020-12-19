@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+}
+#wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#trans{
+  width: 100px;
+  height: 100px;
+  background-color: #F58617;
+  text-align: center;
+  font-family: courier;
+  font-style: normal;
+  font-weight: 400;
+  transform: rotate(50deg);
+  transition: width 2s, height 2s, transform 2s;
+  border-style: solid #F58617;
+  border-radius: 10px;
+}
+
+#trans:hover {
+  width: 300px;
+  height: 300px;
+  transform: rotate(135deg);
+}
+#button-8{
+  background-color: #34495e;
+  overflow: hidden;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+#button-8:hover{
+  -webkit-box-shadow: 0px 0px 10px #34495e;
+  box-shadow: 0px 0px 10px #34495e;
+}
+.button{
+  display: inline-block;
+  padding: 20px 50px;
+  margin: 20px 0;
+  position: relative;
+  color: #ecf0f1;
+}
+  
