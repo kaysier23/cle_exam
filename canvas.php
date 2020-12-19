@@ -14,8 +14,8 @@
            <p1><font size = "6">CANVAS</font></p1>
                 <p><font size = "5">  Graphical Arts using HTML5 Canvas Drawing properties</font></p>
 <a href="canvasExample1.php"class="button1">EXAMPLE 1</a>
-  <a href="#"class="button1">EXAMPLE 2</a>
- <a href="translate.php" class="button1">EXAMPLE 3</a>
+  <a href="canvasExample2.php"class="button1">EXAMPLE 2</a>
+  <a href="canvasExample3.php"class="button1">EXAMPLE 3</a>
 			<div class = "footer"> 
 			
 			</div>
