@@ -65,7 +65,7 @@ body {
 		margin:20px;
 		float: right;
 		width:42%;
-		margin-top: 100px;
+		margin-top: 80px;
 		text-align:center;
 	  }
 
@@ -114,7 +114,7 @@ body {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
-margin-left: 530px;
+margin-left: 560px;
 }
 .button1 {
   background-color: #34495e;
@@ -127,7 +127,7 @@ margin-left: 530px;
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
-margin-left: 530px;
+margin-left: 560px;
 }
 p{
 text-align: center;
