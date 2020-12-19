@@ -126,7 +126,7 @@ footer{
   height: 200px;
   border: 2px solid;
   margin: auto;
-  margin-top: 350px;
+  margin-top: 380px;
 }
 
 /* instagram */
@@ -284,7 +284,7 @@ button {
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  margin-top:-400px;
+  margin-top:-300px;
 }
 
 #button-8:hover{
@@ -297,5 +297,5 @@ button {
   margin: 20px 0;
   position: relative;
   color: #ecf0f1;
-margin-top: -400px;
+margin-top: -300px;
 }
