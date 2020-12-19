@@ -1,9 +1,8 @@
 	<html>
   <link rel="stylesheet" type = "text/css" href = "css/style16.css"/>
+<body>	
 		    <div class = "header"> <p><font size = "12">Kaysier De los reyes Portfolio</font></p>
 	</div>
-<body>	
-		<div class = "header"> </div>
 			<div class = "navi">
 			<a href = "index.php"><font color = "black"> HOME</font></a>
 			<a href = "css.php"><font color = "black"> CSS</font></a>
