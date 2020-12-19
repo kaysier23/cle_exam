@@ -5,7 +5,8 @@
 	</head>
 	<body>
 		
-    <div class = "header"> <p><font size = "12"> Kyzier</font></p></div>
+    <div class = "header"> <p><font size = "12"> Kyzier</font></p>
+		<a  class="btn effect-1">K</a></div>
 			
 			<div class = "body2">
          <p><font size = "6">Hello & Welcome</font></p>
